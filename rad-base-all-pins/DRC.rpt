@@ -1,0 +1,1070 @@
+** Drc report for rad-base.kicad_pcb **
+** Created on 2026-10-20T11:18:36 **
+** Report includes: Errors **
+
+** Found 263 DRC violations **
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 107.9500 mm): PTH pad 1 [w47] of U68
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 110.4900 mm): PTH pad 1 [w44] of U65
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(138.4300 mm, 90.1700 mm): PTH pad 1 [w99] of U120
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 95.2500 mm): PTH pad 1 [w67] of U88
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(133.3500 mm, 107.9500 mm): PTH pad 1 [w15] of U36
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5900 mm, 87.6300 mm): PTH pad 1 [w84] of U105
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.9700 mm, 90.1700 mm): PTH pad 1 [w95] of U116
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(130.8100 mm, 107.9500 mm): PTH pad 1 [w11] of U32
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 110.4900 mm): PTH pad 1 [w4] of U25
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(130.8100 mm, 90.1700 mm): PTH pad 1 [w111] of U132
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 100.3300 mm): PTH pad 1 [w59] of U80
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 90.1700 mm): PTH pad 1 [w128] of U149
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 92.7100 mm): PTH pad 1 [w131] of U152
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.9700 mm, 107.9500 mm): PTH pad 1 [w27] of U48
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 100.3300 mm): PTH pad 1 [w60] of U81
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 92.7100 mm): PTH pad 1 [w71] of U92
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 110.4900 mm): PTH pad 1 [w8] of U29
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 107.9500 mm): PTH pad 1 [w7] of U28
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 90.1700 mm): PTH pad 1 [w87] of U108
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(143.5100 mm, 87.6300 mm): PTH pad 1 [w92] of U113
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(133.3500 mm, 87.6300 mm): PTH pad 1 [w108] of U129
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(138.4300 mm, 107.9500 mm): PTH pad 1 [w23] of U44
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 102.8700 mm): PTH pad 1 [w55] of U76
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(135.8900 mm, 90.1700 mm): PTH pad 1 [w103] of U124
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 107.9500 mm): PTH pad 1 [w48] of U69
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 102.8700 mm): PTH pad 1 [w147] of U168
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 105.4100 mm): PTH pad 1 [w52] of U73
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(135.8900 mm, 107.9500 mm): PTH pad 1 [w19] of U40
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5900 mm, 92.7100 mm): PTH pad 1 [w72] of U93
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(143.5100 mm, 107.9500 mm): PTH pad 1 [w31] of U52
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 90.1700 mm): PTH pad 1 [w127] of U148
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 102.8700 mm): PTH pad 1 [w148] of U169
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(133.3500 mm, 90.1700 mm): PTH pad 1 [w107] of U128
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 100.3300 mm): PTH pad 1 [w144] of U165
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 97.7900 mm): PTH pad 1 [w64] of U85
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 100.3300 mm): PTH pad 1 [w143] of U164
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(143.5100 mm, 90.1700 mm): PTH pad 1 [w91] of U112
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 105.4100 mm): PTH pad 1 [w51] of U72
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5900 mm, 90.1700 mm): PTH pad 1 [w83] of U104
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 92.7100 mm): PTH pad 1 [w132] of U153
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 87.6300 mm): PTH pad 1 [w88] of U109
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 87.6300 mm): PTH pad 1 [w123] of U144
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 97.7900 mm): PTH pad 1 [w63] of U84
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(135.8900 mm, 110.4900 mm): PTH pad 1 [w20] of U41
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 105.4100 mm): PTH pad 1 [w151] of U172
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 95.2500 mm): PTH pad 1 [w135] of U156
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(130.8100 mm, 87.6300 mm): PTH pad 1 [w112] of U133
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 97.7900 mm): PTH pad 1 [w140] of U161
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(146.0500 mm, 110.4900 mm): PTH pad 1 [w43] of U64
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5500 mm, 102.8700 mm): PTH pad 1 [w56] of U77
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(128.2700 mm, 97.7900 mm): PTH pad 1 [w139] of U160
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 95.2500 mm): PTH pad 1 [w136] of U157
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(138.4300 mm, 110.4900 mm): PTH pad 1 [w24] of U45
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.9700 mm, 87.6300 mm): PTH pad 1 [w96] of U117
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.9700 mm, 110.4900 mm): PTH pad 1 [w28] of U49
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 107.9500 mm): PTH pad 1 [w3] of U24
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 87.6300 mm): PTH pad 1 [w124] of U145
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(130.8100 mm, 110.4900 mm): PTH pad 1 [w12] of U33
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(133.3500 mm, 110.4900 mm): PTH pad 1 [w16] of U37
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(143.5100 mm, 110.4900 mm): PTH pad 1 [w32] of U53
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(125.7300 mm, 105.4100 mm): PTH pad 1 [w152] of U173
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(148.5900 mm, 95.2500 mm): PTH pad 1 [w68] of U89
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(135.8900 mm, 87.6300 mm): PTH pad 1 [w104] of U125
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(138.4300 mm, 87.6300 mm): PTH pad 1 [w100] of U121
+    @(137.1600 mm, 99.0600 mm): Footprint U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 96.3100 mm): Pad 177 [VCC1] of U1 on F.Cu
+    @(122.5600 mm, 95.8100 mm): Pad 176 [w136] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 96.3100 mm): Pad 177 [VCC1] of U1 on F.Cu
+    @(122.5600 mm, 96.8100 mm): Pad 178 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 96.8100 mm): Pad 178 [GND] of U1 on F.Cu
+    @(122.5600 mm, 97.3100 mm): Pad 179 [w137] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 97.3100 mm): Pad 179 [w137] of U1 on F.Cu
+    @(122.5600 mm, 97.8100 mm): Pad 180 [w138] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 97.8100 mm): Pad 180 [w138] of U1 on F.Cu
+    @(122.5600 mm, 98.3100 mm): Pad 181 [w139] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 98.3100 mm): Pad 181 [w139] of U1 on F.Cu
+    @(122.5600 mm, 98.8100 mm): Pad 182 [w140] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 98.8100 mm): Pad 182 [w140] of U1 on F.Cu
+    @(122.5600 mm, 99.3100 mm): Pad 183 [w141] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 99.3100 mm): Pad 183 [w141] of U1 on F.Cu
+    @(122.5600 mm, 99.8100 mm): Pad 184 [w142] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 99.8100 mm): Pad 184 [w142] of U1 on F.Cu
+    @(122.5600 mm, 100.3100 mm): Pad 185 [w143] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 100.3100 mm): Pad 185 [w143] of U1 on F.Cu
+    @(122.5600 mm, 100.8100 mm): Pad 186 [w144] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 100.8100 mm): Pad 186 [w144] of U1 on F.Cu
+    @(122.5600 mm, 101.3100 mm): Pad 187 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 101.3100 mm): Pad 187 [GND] of U1 on F.Cu
+    @(122.5600 mm, 101.8100 mm): Pad 188 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 101.8100 mm): Pad 188 [VCC2] of U1 on F.Cu
+    @(122.5600 mm, 102.3100 mm): Pad 189 [w145] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 102.3100 mm): Pad 189 [w145] of U1 on F.Cu
+    @(122.5600 mm, 102.8100 mm): Pad 190 [w146] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 102.8100 mm): Pad 190 [w146] of U1 on F.Cu
+    @(122.5600 mm, 103.3100 mm): Pad 191 [w147] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 103.3100 mm): Pad 191 [w147] of U1 on F.Cu
+    @(122.5600 mm, 103.8100 mm): Pad 192 [w148] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 103.8100 mm): Pad 192 [w148] of U1 on F.Cu
+    @(122.5600 mm, 104.3100 mm): Pad 193 [w149] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 104.3100 mm): Pad 193 [w149] of U1 on F.Cu
+    @(122.5600 mm, 104.8100 mm): Pad 194 [w150] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 104.8100 mm): Pad 194 [w150] of U1 on F.Cu
+    @(122.5600 mm, 105.3100 mm): Pad 195 [w151] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 105.3100 mm): Pad 195 [w151] of U1 on F.Cu
+    @(122.5600 mm, 105.8100 mm): Pad 196 [w152] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 105.8100 mm): Pad 196 [w152] of U1 on F.Cu
+    @(122.5600 mm, 106.3100 mm): Pad 197 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 106.3100 mm): Pad 197 [GND] of U1 on F.Cu
+    @(122.5600 mm, 106.8100 mm): Pad 198 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 106.8100 mm): Pad 198 [VCC1] of U1 on F.Cu
+    @(122.5600 mm, 107.3100 mm): Pad 199 [w153] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 107.3100 mm): Pad 199 [w153] of U1 on F.Cu
+    @(122.5600 mm, 107.8100 mm): Pad 200 [w154] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 107.8100 mm): Pad 200 [w154] of U1 on F.Cu
+    @(122.5600 mm, 108.3100 mm): Pad 201 [w155] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 108.3100 mm): Pad 201 [w155] of U1 on F.Cu
+    @(122.5600 mm, 108.8100 mm): Pad 202 [w156] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 108.8100 mm): Pad 202 [w156] of U1 on F.Cu
+    @(122.5600 mm, 109.3100 mm): Pad 203 [w157] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 109.3100 mm): Pad 203 [w157] of U1 on F.Cu
+    @(122.5600 mm, 109.8100 mm): Pad 204 [w158] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 109.8100 mm): Pad 204 [w158] of U1 on F.Cu
+    @(122.5600 mm, 110.3100 mm): Pad 205 [w159] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 110.3100 mm): Pad 205 [w159] of U1 on F.Cu
+    @(122.5600 mm, 110.8100 mm): Pad 206 [w160] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 110.8100 mm): Pad 206 [w160] of U1 on F.Cu
+    @(122.5600 mm, 111.3100 mm): Pad 207 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 111.3100 mm): Pad 207 [GND] of U1 on F.Cu
+    @(122.5600 mm, 111.8100 mm): Pad 208 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(134.9100 mm, 84.4600 mm): Pad 135 [GND] of U1 on F.Cu
+    @(135.4100 mm, 84.4600 mm): Pad 134 [w104] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(134.9100 mm, 84.4600 mm): Pad 135 [GND] of U1 on F.Cu
+    @(134.4100 mm, 84.4600 mm): Pad 136 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(134.4100 mm, 84.4600 mm): Pad 136 [VCC2] of U1 on F.Cu
+    @(133.9100 mm, 84.4600 mm): Pad 137 [w105] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(133.9100 mm, 84.4600 mm): Pad 137 [w105] of U1 on F.Cu
+    @(133.4100 mm, 84.4600 mm): Pad 138 [w106] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(133.4100 mm, 84.4600 mm): Pad 138 [w106] of U1 on F.Cu
+    @(132.9100 mm, 84.4600 mm): Pad 139 [w107] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 91.8100 mm): Pad 93 [GND] of U1 on F.Cu
+    @(151.7600 mm, 92.3100 mm): Pad 92 [w72] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(132.9100 mm, 84.4600 mm): Pad 139 [w107] of U1 on F.Cu
+    @(132.4100 mm, 84.4600 mm): Pad 140 [w108] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 91.8100 mm): Pad 93 [GND] of U1 on F.Cu
+    @(151.7600 mm, 91.3100 mm): Pad 94 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(132.4100 mm, 84.4600 mm): Pad 140 [w108] of U1 on F.Cu
+    @(131.9100 mm, 84.4600 mm): Pad 141 [w109] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.4100 mm, 113.6600 mm): Pad 51 [GND] of U1 on F.Cu
+    @(148.9100 mm, 113.6600 mm): Pad 50 [w40] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 91.3100 mm): Pad 94 [VCC1] of U1 on F.Cu
+    @(151.7600 mm, 90.8100 mm): Pad 95 [w73] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.9100 mm, 84.4600 mm): Pad 141 [w109] of U1 on F.Cu
+    @(131.4100 mm, 84.4600 mm): Pad 142 [w110] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.4100 mm, 113.6600 mm): Pad 51 [GND] of U1 on F.Cu
+    @(149.9100 mm, 113.6600 mm): Pad 52 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 90.8100 mm): Pad 95 [w73] of U1 on F.Cu
+    @(151.7600 mm, 90.3100 mm): Pad 96 [w74] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.4100 mm, 84.4600 mm): Pad 142 [w110] of U1 on F.Cu
+    @(130.9100 mm, 84.4600 mm): Pad 143 [w111] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(128.4100 mm, 113.6600 mm): Pad 9 [w7] of U1 on F.Cu
+    @(127.9100 mm, 113.6600 mm): Pad 8 [w6] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 111.8100 mm): Pad 53 [VCC1] of U1 on F.Cu
+    @(151.7600 mm, 111.3100 mm): Pad 54 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 90.3100 mm): Pad 96 [w74] of U1 on F.Cu
+    @(151.7600 mm, 89.8100 mm): Pad 97 [w75] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(130.9100 mm, 84.4600 mm): Pad 143 [w111] of U1 on F.Cu
+    @(130.4100 mm, 84.4600 mm): Pad 144 [w112] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(128.4100 mm, 113.6600 mm): Pad 9 [w7] of U1 on F.Cu
+    @(128.9100 mm, 113.6600 mm): Pad 10 [w8] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 89.8100 mm): Pad 97 [w75] of U1 on F.Cu
+    @(151.7600 mm, 89.3100 mm): Pad 98 [w76] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 111.3100 mm): Pad 54 [GND] of U1 on F.Cu
+    @(151.7600 mm, 110.8100 mm): Pad 55 [w41] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(130.4100 mm, 84.4600 mm): Pad 144 [w112] of U1 on F.Cu
+    @(129.9100 mm, 84.4600 mm): Pad 145 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 110.8100 mm): Pad 55 [w41] of U1 on F.Cu
+    @(151.7600 mm, 110.3100 mm): Pad 56 [w42] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(129.9100 mm, 84.4600 mm): Pad 145 [GND] of U1 on F.Cu
+    @(129.4100 mm, 84.4600 mm): Pad 146 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 89.3100 mm): Pad 98 [w76] of U1 on F.Cu
+    @(151.7600 mm, 88.8100 mm): Pad 99 [w77] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(129.4100 mm, 84.4600 mm): Pad 146 [VCC1] of U1 on F.Cu
+    @(128.9100 mm, 84.4600 mm): Pad 147 [w113] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 110.3100 mm): Pad 56 [w42] of U1 on F.Cu
+    @(151.7600 mm, 109.8100 mm): Pad 57 [w43] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 88.8100 mm): Pad 99 [w77] of U1 on F.Cu
+    @(151.7600 mm, 88.3100 mm): Pad 100 [w78] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(128.9100 mm, 84.4600 mm): Pad 147 [w113] of U1 on F.Cu
+    @(128.4100 mm, 84.4600 mm): Pad 148 [w114] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(128.9100 mm, 113.6600 mm): Pad 10 [w8] of U1 on F.Cu
+    @(129.4100 mm, 113.6600 mm): Pad 11 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 109.8100 mm): Pad 57 [w43] of U1 on F.Cu
+    @(151.7600 mm, 109.3100 mm): Pad 58 [w44] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 88.3100 mm): Pad 100 [w78] of U1 on F.Cu
+    @(151.7600 mm, 87.8100 mm): Pad 101 [w79] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 109.3100 mm): Pad 58 [w44] of U1 on F.Cu
+    @(151.7600 mm, 108.8100 mm): Pad 59 [w45] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(128.4100 mm, 84.4600 mm): Pad 148 [w114] of U1 on F.Cu
+    @(127.9100 mm, 84.4600 mm): Pad 149 [w115] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 87.8100 mm): Pad 101 [w79] of U1 on F.Cu
+    @(151.7600 mm, 87.3100 mm): Pad 102 [w80] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 108.8100 mm): Pad 59 [w45] of U1 on F.Cu
+    @(151.7600 mm, 108.3100 mm): Pad 60 [w46] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(127.9100 mm, 84.4600 mm): Pad 149 [w115] of U1 on F.Cu
+    @(127.4100 mm, 84.4600 mm): Pad 150 [w116] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 87.3100 mm): Pad 102 [w80] of U1 on F.Cu
+    @(151.7600 mm, 86.8100 mm): Pad 103 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(129.4100 mm, 113.6600 mm): Pad 11 [VCC2] of U1 on F.Cu
+    @(129.9100 mm, 113.6600 mm): Pad 12 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 108.3100 mm): Pad 60 [w46] of U1 on F.Cu
+    @(151.7600 mm, 107.8100 mm): Pad 61 [w47] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(127.4100 mm, 84.4600 mm): Pad 150 [w116] of U1 on F.Cu
+    @(126.9100 mm, 84.4600 mm): Pad 151 [w117] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 86.8100 mm): Pad 103 [GND] of U1 on F.Cu
+    @(151.7600 mm, 86.3100 mm): Pad 104 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 107.8100 mm): Pad 61 [w47] of U1 on F.Cu
+    @(151.7600 mm, 107.3100 mm): Pad 62 [w48] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(126.9100 mm, 84.4600 mm): Pad 151 [w117] of U1 on F.Cu
+    @(126.4100 mm, 84.4600 mm): Pad 152 [w118] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(129.9100 mm, 113.6600 mm): Pad 12 [GND] of U1 on F.Cu
+    @(130.4100 mm, 113.6600 mm): Pad 13 [w9] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.9100 mm, 84.4600 mm): Pad 105 [VCC1] of U1 on F.Cu
+    @(149.4100 mm, 84.4600 mm): Pad 106 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 107.3100 mm): Pad 62 [w48] of U1 on F.Cu
+    @(151.7600 mm, 106.8100 mm): Pad 63 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(126.4100 mm, 84.4600 mm): Pad 152 [w118] of U1 on F.Cu
+    @(125.9100 mm, 84.4600 mm): Pad 153 [w119] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(130.4100 mm, 113.6600 mm): Pad 13 [w9] of U1 on F.Cu
+    @(130.9100 mm, 113.6600 mm): Pad 14 [w10] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(149.4100 mm, 84.4600 mm): Pad 106 [GND] of U1 on F.Cu
+    @(148.9100 mm, 84.4600 mm): Pad 107 [w81] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 106.8100 mm): Pad 63 [VCC2] of U1 on F.Cu
+    @(151.7600 mm, 106.3100 mm): Pad 64 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.9100 mm, 84.4600 mm): Pad 153 [w119] of U1 on F.Cu
+    @(125.4100 mm, 84.4600 mm): Pad 154 [w120] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(130.9100 mm, 113.6600 mm): Pad 14 [w10] of U1 on F.Cu
+    @(131.4100 mm, 113.6600 mm): Pad 15 [w11] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(148.9100 mm, 84.4600 mm): Pad 107 [w81] of U1 on F.Cu
+    @(148.4100 mm, 84.4600 mm): Pad 108 [w82] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.4100 mm, 84.4600 mm): Pad 154 [w120] of U1 on F.Cu
+    @(124.9100 mm, 84.4600 mm): Pad 155 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.4100 mm, 113.6600 mm): Pad 15 [w11] of U1 on F.Cu
+    @(131.9100 mm, 113.6600 mm): Pad 16 [w12] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(148.4100 mm, 84.4600 mm): Pad 108 [w82] of U1 on F.Cu
+    @(147.9100 mm, 84.4600 mm): Pad 109 [w83] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(124.9100 mm, 84.4600 mm): Pad 155 [GND] of U1 on F.Cu
+    @(124.4100 mm, 84.4600 mm): Pad 156 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.9100 mm, 113.6600 mm): Pad 16 [w12] of U1 on F.Cu
+    @(132.4100 mm, 113.6600 mm): Pad 17 [w13] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 106.3100 mm): Pad 64 [GND] of U1 on F.Cu
+    @(151.7600 mm, 105.8100 mm): Pad 65 [w49] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(147.9100 mm, 84.4600 mm): Pad 109 [w83] of U1 on F.Cu
+    @(147.4100 mm, 84.4600 mm): Pad 110 [w84] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 86.3100 mm): Pad 157 [VCC1] of U1 on F.Cu
+    @(122.5600 mm, 86.8100 mm): Pad 158 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(132.4100 mm, 113.6600 mm): Pad 17 [w13] of U1 on F.Cu
+    @(132.9100 mm, 113.6600 mm): Pad 18 [w14] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 105.8100 mm): Pad 65 [w49] of U1 on F.Cu
+    @(151.7600 mm, 105.3100 mm): Pad 66 [w50] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 86.8100 mm): Pad 158 [GND] of U1 on F.Cu
+    @(122.5600 mm, 87.3100 mm): Pad 159 [w121] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(147.4100 mm, 84.4600 mm): Pad 110 [w84] of U1 on F.Cu
+    @(146.9100 mm, 84.4600 mm): Pad 111 [w85] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(132.9100 mm, 113.6600 mm): Pad 18 [w14] of U1 on F.Cu
+    @(133.4100 mm, 113.6600 mm): Pad 19 [w15] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 87.3100 mm): Pad 159 [w121] of U1 on F.Cu
+    @(122.5600 mm, 87.8100 mm): Pad 160 [w122] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(146.9100 mm, 84.4600 mm): Pad 111 [w85] of U1 on F.Cu
+    @(146.4100 mm, 84.4600 mm): Pad 112 [w86] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(133.4100 mm, 113.6600 mm): Pad 19 [w15] of U1 on F.Cu
+    @(133.9100 mm, 113.6600 mm): Pad 20 [w16] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 87.8100 mm): Pad 160 [w122] of U1 on F.Cu
+    @(122.5600 mm, 88.3100 mm): Pad 161 [w123] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(146.4100 mm, 84.4600 mm): Pad 112 [w86] of U1 on F.Cu
+    @(145.9100 mm, 84.4600 mm): Pad 113 [w87] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(133.9100 mm, 113.6600 mm): Pad 20 [w16] of U1 on F.Cu
+    @(134.4100 mm, 113.6600 mm): Pad 21 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 88.3100 mm): Pad 161 [w123] of U1 on F.Cu
+    @(122.5600 mm, 88.8100 mm): Pad 162 [w124] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 105.3100 mm): Pad 66 [w50] of U1 on F.Cu
+    @(151.7600 mm, 104.8100 mm): Pad 67 [w51] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(145.9100 mm, 84.4600 mm): Pad 113 [w87] of U1 on F.Cu
+    @(145.4100 mm, 84.4600 mm): Pad 114 [w88] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 88.8100 mm): Pad 162 [w124] of U1 on F.Cu
+    @(122.5600 mm, 89.3100 mm): Pad 163 [w125] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(134.4100 mm, 113.6600 mm): Pad 21 [VCC1] of U1 on F.Cu
+    @(134.9100 mm, 113.6600 mm): Pad 22 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 104.8100 mm): Pad 67 [w51] of U1 on F.Cu
+    @(151.7600 mm, 104.3100 mm): Pad 68 [w52] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(145.4100 mm, 84.4600 mm): Pad 114 [w88] of U1 on F.Cu
+    @(144.9100 mm, 84.4600 mm): Pad 115 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 89.3100 mm): Pad 163 [w125] of U1 on F.Cu
+    @(122.5600 mm, 89.8100 mm): Pad 164 [w126] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(144.9100 mm, 84.4600 mm): Pad 115 [VCC2] of U1 on F.Cu
+    @(144.4100 mm, 84.4600 mm): Pad 116 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 104.3100 mm): Pad 68 [w52] of U1 on F.Cu
+    @(151.7600 mm, 103.8100 mm): Pad 69 [w53] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 89.8100 mm): Pad 164 [w126] of U1 on F.Cu
+    @(122.5600 mm, 90.3100 mm): Pad 165 [w127] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(134.9100 mm, 113.6600 mm): Pad 22 [GND] of U1 on F.Cu
+    @(135.4100 mm, 113.6600 mm): Pad 23 [w17] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 103.8100 mm): Pad 69 [w53] of U1 on F.Cu
+    @(151.7600 mm, 103.3100 mm): Pad 70 [w54] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(144.4100 mm, 84.4600 mm): Pad 116 [GND] of U1 on F.Cu
+    @(143.9100 mm, 84.4600 mm): Pad 117 [w89] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.4100 mm, 113.6600 mm): Pad 23 [w17] of U1 on F.Cu
+    @(135.9100 mm, 113.6600 mm): Pad 24 [w18] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 103.3100 mm): Pad 70 [w54] of U1 on F.Cu
+    @(151.7600 mm, 102.8100 mm): Pad 71 [w55] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.9100 mm, 113.6600 mm): Pad 24 [w18] of U1 on F.Cu
+    @(136.4100 mm, 113.6600 mm): Pad 25 [w19] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 102.8100 mm): Pad 71 [w55] of U1 on F.Cu
+    @(151.7600 mm, 102.3100 mm): Pad 72 [w56] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 90.3100 mm): Pad 165 [w127] of U1 on F.Cu
+    @(122.5600 mm, 90.8100 mm): Pad 166 [w128] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(136.4100 mm, 113.6600 mm): Pad 25 [w19] of U1 on F.Cu
+    @(136.9100 mm, 113.6600 mm): Pad 26 [w20] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 102.3100 mm): Pad 72 [w56] of U1 on F.Cu
+    @(151.7600 mm, 101.8100 mm): Pad 73 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(143.9100 mm, 84.4600 mm): Pad 117 [w89] of U1 on F.Cu
+    @(143.4100 mm, 84.4600 mm): Pad 118 [w90] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 90.8100 mm): Pad 166 [w128] of U1 on F.Cu
+    @(122.5600 mm, 91.3100 mm): Pad 167 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(136.9100 mm, 113.6600 mm): Pad 26 [w20] of U1 on F.Cu
+    @(137.4100 mm, 113.6600 mm): Pad 27 [w21] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 101.8100 mm): Pad 73 [VCC1] of U1 on F.Cu
+    @(151.7600 mm, 101.3100 mm): Pad 74 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(143.4100 mm, 84.4600 mm): Pad 118 [w90] of U1 on F.Cu
+    @(142.9100 mm, 84.4600 mm): Pad 119 [w91] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 91.3100 mm): Pad 167 [VCC2] of U1 on F.Cu
+    @(122.5600 mm, 91.8100 mm): Pad 168 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.4100 mm, 113.6600 mm): Pad 27 [w21] of U1 on F.Cu
+    @(137.9100 mm, 113.6600 mm): Pad 28 [w22] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 101.3100 mm): Pad 74 [GND] of U1 on F.Cu
+    @(151.7600 mm, 100.8100 mm): Pad 75 [w57] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(142.9100 mm, 84.4600 mm): Pad 119 [w91] of U1 on F.Cu
+    @(142.4100 mm, 84.4600 mm): Pad 120 [w92] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.9100 mm, 113.6600 mm): Pad 28 [w22] of U1 on F.Cu
+    @(138.4100 mm, 113.6600 mm): Pad 29 [w23] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 100.8100 mm): Pad 75 [w57] of U1 on F.Cu
+    @(151.7600 mm, 100.3100 mm): Pad 76 [w58] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 91.8100 mm): Pad 168 [GND] of U1 on F.Cu
+    @(122.5600 mm, 92.3100 mm): Pad 169 [w129] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(142.4100 mm, 84.4600 mm): Pad 120 [w92] of U1 on F.Cu
+    @(141.9100 mm, 84.4600 mm): Pad 121 [w93] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 100.3100 mm): Pad 76 [w58] of U1 on F.Cu
+    @(151.7600 mm, 99.8100 mm): Pad 77 [w59] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(138.4100 mm, 113.6600 mm): Pad 29 [w23] of U1 on F.Cu
+    @(138.9100 mm, 113.6600 mm): Pad 30 [w24] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 92.3100 mm): Pad 169 [w129] of U1 on F.Cu
+    @(122.5600 mm, 92.8100 mm): Pad 170 [w130] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(141.9100 mm, 84.4600 mm): Pad 121 [w93] of U1 on F.Cu
+    @(141.4100 mm, 84.4600 mm): Pad 122 [w94] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 99.8100 mm): Pad 77 [w59] of U1 on F.Cu
+    @(151.7600 mm, 99.3100 mm): Pad 78 [w60] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(138.9100 mm, 113.6600 mm): Pad 30 [w24] of U1 on F.Cu
+    @(139.4100 mm, 113.6600 mm): Pad 31 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 92.8100 mm): Pad 170 [w130] of U1 on F.Cu
+    @(122.5600 mm, 93.3100 mm): Pad 171 [w131] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(141.4100 mm, 84.4600 mm): Pad 122 [w94] of U1 on F.Cu
+    @(140.9100 mm, 84.4600 mm): Pad 123 [w95] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.4100 mm, 113.6600 mm): Pad 31 [GND] of U1 on F.Cu
+    @(139.9100 mm, 113.6600 mm): Pad 32 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 99.3100 mm): Pad 78 [w60] of U1 on F.Cu
+    @(151.7600 mm, 98.8100 mm): Pad 79 [w61] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 93.3100 mm): Pad 171 [w131] of U1 on F.Cu
+    @(122.5600 mm, 93.8100 mm): Pad 172 [w132] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.9100 mm, 113.6600 mm): Pad 32 [VCC2] of U1 on F.Cu
+    @(140.4100 mm, 113.6600 mm): Pad 33 [w25] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 93.8100 mm): Pad 172 [w132] of U1 on F.Cu
+    @(122.5600 mm, 94.3100 mm): Pad 173 [w133] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 98.8100 mm): Pad 79 [w61] of U1 on F.Cu
+    @(151.7600 mm, 98.3100 mm): Pad 80 [w62] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.4100 mm, 113.6600 mm): Pad 33 [w25] of U1 on F.Cu
+    @(140.9100 mm, 113.6600 mm): Pad 34 [w26] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 94.3100 mm): Pad 173 [w133] of U1 on F.Cu
+    @(122.5600 mm, 94.8100 mm): Pad 174 [w134] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.9100 mm, 84.4600 mm): Pad 123 [w95] of U1 on F.Cu
+    @(140.4100 mm, 84.4600 mm): Pad 124 [w96] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 98.3100 mm): Pad 80 [w62] of U1 on F.Cu
+    @(151.7600 mm, 97.8100 mm): Pad 81 [w63] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.9100 mm, 113.6600 mm): Pad 34 [w26] of U1 on F.Cu
+    @(141.4100 mm, 113.6600 mm): Pad 35 [w27] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.4100 mm, 84.4600 mm): Pad 124 [w96] of U1 on F.Cu
+    @(139.9100 mm, 84.4600 mm): Pad 125 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 97.8100 mm): Pad 81 [w63] of U1 on F.Cu
+    @(151.7600 mm, 97.3100 mm): Pad 82 [w64] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(141.4100 mm, 113.6600 mm): Pad 35 [w27] of U1 on F.Cu
+    @(141.9100 mm, 113.6600 mm): Pad 36 [w28] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 94.8100 mm): Pad 174 [w134] of U1 on F.Cu
+    @(122.5600 mm, 95.3100 mm): Pad 175 [w135] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.9100 mm, 84.4600 mm): Pad 125 [VCC1] of U1 on F.Cu
+    @(139.4100 mm, 84.4600 mm): Pad 126 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 97.3100 mm): Pad 82 [w64] of U1 on F.Cu
+    @(151.7600 mm, 96.8100 mm): Pad 83 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(141.9100 mm, 113.6600 mm): Pad 36 [w28] of U1 on F.Cu
+    @(142.4100 mm, 113.6600 mm): Pad 37 [w29] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(122.5600 mm, 95.3100 mm): Pad 175 [w135] of U1 on F.Cu
+    @(122.5600 mm, 95.8100 mm): Pad 176 [w136] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.4100 mm, 84.4600 mm): Pad 126 [GND] of U1 on F.Cu
+    @(138.9100 mm, 84.4600 mm): Pad 127 [w97] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 96.8100 mm): Pad 83 [GND] of U1 on F.Cu
+    @(151.7600 mm, 96.3100 mm): Pad 84 [VCC2] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(142.4100 mm, 113.6600 mm): Pad 37 [w29] of U1 on F.Cu
+    @(142.9100 mm, 113.6600 mm): Pad 38 [w30] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(138.9100 mm, 84.4600 mm): Pad 127 [w97] of U1 on F.Cu
+    @(138.4100 mm, 84.4600 mm): Pad 128 [w98] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 96.3100 mm): Pad 84 [VCC2] of U1 on F.Cu
+    @(151.7600 mm, 95.8100 mm): Pad 85 [w65] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(142.9100 mm, 113.6600 mm): Pad 38 [w30] of U1 on F.Cu
+    @(143.4100 mm, 113.6600 mm): Pad 39 [w31] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 95.8100 mm): Pad 85 [w65] of U1 on F.Cu
+    @(151.7600 mm, 95.3100 mm): Pad 86 [w66] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(138.4100 mm, 84.4600 mm): Pad 128 [w98] of U1 on F.Cu
+    @(137.9100 mm, 84.4600 mm): Pad 129 [w99] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 95.3100 mm): Pad 86 [w66] of U1 on F.Cu
+    @(151.7600 mm, 94.8100 mm): Pad 87 [w67] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(143.4100 mm, 113.6600 mm): Pad 39 [w31] of U1 on F.Cu
+    @(143.9100 mm, 113.6600 mm): Pad 40 [w32] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.9100 mm, 84.4600 mm): Pad 129 [w99] of U1 on F.Cu
+    @(137.4100 mm, 84.4600 mm): Pad 130 [w100] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 94.8100 mm): Pad 87 [w67] of U1 on F.Cu
+    @(151.7600 mm, 94.3100 mm): Pad 88 [w68] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 94.3100 mm): Pad 88 [w68] of U1 on F.Cu
+    @(151.7600 mm, 93.8100 mm): Pad 89 [w69] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(137.4100 mm, 84.4600 mm): Pad 130 [w100] of U1 on F.Cu
+    @(136.9100 mm, 84.4600 mm): Pad 131 [w101] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(143.9100 mm, 113.6600 mm): Pad 40 [w32] of U1 on F.Cu
+    @(144.4100 mm, 113.6600 mm): Pad 41 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(136.9100 mm, 84.4600 mm): Pad 131 [w101] of U1 on F.Cu
+    @(136.4100 mm, 84.4600 mm): Pad 132 [w102] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(144.4100 mm, 113.6600 mm): Pad 41 [GND] of U1 on F.Cu
+    @(144.9100 mm, 113.6600 mm): Pad 42 [VCC1] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 93.8100 mm): Pad 89 [w69] of U1 on F.Cu
+    @(151.7600 mm, 93.3100 mm): Pad 90 [w70] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(136.4100 mm, 84.4600 mm): Pad 132 [w102] of U1 on F.Cu
+    @(135.9100 mm, 84.4600 mm): Pad 133 [w103] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(144.9100 mm, 113.6600 mm): Pad 42 [VCC1] of U1 on F.Cu
+    @(145.4100 mm, 113.6600 mm): Pad 43 [w33] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 93.3100 mm): Pad 90 [w70] of U1 on F.Cu
+    @(151.7600 mm, 92.8100 mm): Pad 91 [w71] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(135.9100 mm, 84.4600 mm): Pad 133 [w103] of U1 on F.Cu
+    @(135.4100 mm, 84.4600 mm): Pad 134 [w104] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(145.4100 mm, 113.6600 mm): Pad 43 [w33] of U1 on F.Cu
+    @(145.9100 mm, 113.6600 mm): Pad 44 [w34] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(151.7600 mm, 92.8100 mm): Pad 91 [w71] of U1 on F.Cu
+    @(151.7600 mm, 92.3100 mm): Pad 92 [w72] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(145.9100 mm, 113.6600 mm): Pad 44 [w34] of U1 on F.Cu
+    @(146.4100 mm, 113.6600 mm): Pad 45 [w35] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(146.4100 mm, 113.6600 mm): Pad 45 [w35] of U1 on F.Cu
+    @(146.9100 mm, 113.6600 mm): Pad 46 [w36] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(146.9100 mm, 113.6600 mm): Pad 46 [w36] of U1 on F.Cu
+    @(147.4100 mm, 113.6600 mm): Pad 47 [w37] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(147.4100 mm, 113.6600 mm): Pad 47 [w37] of U1 on F.Cu
+    @(147.9100 mm, 113.6600 mm): Pad 48 [w38] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(147.9100 mm, 113.6600 mm): Pad 48 [w38] of U1 on F.Cu
+    @(148.4100 mm, 113.6600 mm): Pad 49 [w39] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(148.4100 mm, 113.6600 mm): Pad 49 [w39] of U1 on F.Cu
+    @(148.9100 mm, 113.6600 mm): Pad 50 [w40] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(124.4100 mm, 113.6600 mm): Pad 1 [VCC1] of U1 on F.Cu
+    @(124.9100 mm, 113.6600 mm): Pad 2 [GND] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(124.9100 mm, 113.6600 mm): Pad 2 [GND] of U1 on F.Cu
+    @(125.4100 mm, 113.6600 mm): Pad 3 [w1] of U1 on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
