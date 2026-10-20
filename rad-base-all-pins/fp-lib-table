@@ -8,4 +8,7 @@
 	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray.pretty") (options "") (descr ""))
 	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray/PinsArray.pretty") (options "") (descr ""))
 	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray/PinsArray.pretty") (options "") (descr ""))
+	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray.pretty") (options "") (descr ""))
+	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray.pretty") (options "") (descr ""))
+	(lib (name "PinsArray") (type "KiCad") (uri "${KIPRJMOD}/PinsArray/PinsArray.pretty") (options "") (descr ""))
 )
