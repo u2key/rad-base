@@ -112,7 +112,7 @@
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "error",
+        "pth_inside_courtyard": "warning",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -663,27 +663,27 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "rad-base.kicad_sch",
-        "name": "rad-base1",
-        "uuid": "a483c1c6-f68b-403a-bcb1-25eea553eb57"
-      },
-      {
         "filename": "rad-base_(page_2).kicad_sch",
         "name": "rad-base2",
         "uuid": "303c8cc6-24ed-43d4-95c0-665d832bc08e"
+      },
+      {
+        "filename": "rad-base3.kicad_sch",
+        "name": "rad-base3",
+        "uuid": "d4d23a3b-0954-452c-8bbc-ba91ae05ad52"
       }
     ],
-    "used_designators": "#PWR1-4,U1-181",
+    "used_designators": "#PWR1-4,J1,U1-181",
     "variants": []
   },
   "sheets": [
     [
-      "a483c1c6-f68b-403a-bcb1-25eea553eb57",
-      "rad-base1"
-    ],
-    [
       "303c8cc6-24ed-43d4-95c0-665d832bc08e",
       "rad-base2"
+    ],
+    [
+      "d4d23a3b-0954-452c-8bbc-ba91ae05ad52",
+      "rad-base3"
     ]
   ],
   "text_variables": {},
